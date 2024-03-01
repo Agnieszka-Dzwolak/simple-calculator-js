@@ -12,3 +12,11 @@ body {
   height: 100%;
   background-color: #565454;
 }
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40rem;
+  font-size: 4rem;
+  color: white;
+}

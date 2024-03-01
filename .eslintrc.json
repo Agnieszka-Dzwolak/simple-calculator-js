@@ -3,6 +3,7 @@
   "parserOptions": {
     "sourceType": "module"
   },
+  "linebreak-style": ["error", "windows"],
   "env": {
     "browser": true
   },
